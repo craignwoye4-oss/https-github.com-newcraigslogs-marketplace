@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial deploy"
+git branch -M main
+git remote add origin https://github.com/craignwoye4-oss/craigslogs-marketplace.git
+git push -u origin main
